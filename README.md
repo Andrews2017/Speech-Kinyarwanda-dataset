@@ -4,12 +4,12 @@ This dataset was collected in kinyarwanda language using the android application
 
 ## Use case
 
-```
+
 - [x] git clone https://github.com/jp-ishimwe/Speech-Kinyarwanda-dataset.git
 - [ ] cd Speech-Kinyarwanda-dataset or 
 - [ ] get the link towards the file you want to use.
 
-```
+
 The charset json file contains all possible characters and numbers in the <span style="color:gray;">text-file.txt</span> which you need to use in decoding. 
 
 You can also try to build your language model using <span style="color:gray;">text-file.txt</span> for kenlm model.
@@ -20,6 +20,8 @@ You can also try to build your language model using <span style="color:gray;">te
 + Misspelled texts
 + Unfriendly android app through which you can skip an utterance and no way to come back.
 + Variations of speech (low and high) during recording due to fatigue
+
+
 
 
 
