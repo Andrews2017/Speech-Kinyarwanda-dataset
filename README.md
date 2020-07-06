@@ -31,4 +31,4 @@ You can also try to build your language model using <span style="color:gray;">te
 
 
 
-&copy; copyrights reserved 2020 under MIT license!
+&copy; copyrights reserved 2020!
